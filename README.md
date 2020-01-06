@@ -1,2 +1,2 @@
 # CV_paper
-some classic paper of cv
+some classical paper of cv
